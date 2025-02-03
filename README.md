@@ -6,6 +6,6 @@ p.s - this is all source code files, no malware, no virus, no pharming/phishing 
 
 STEP 1 Download the files: index.html, script.js, styles.css, yes_page.html, yes_style.css
 
-(Whenever you download this, you'll be directed to the source code format of the file, from there... you'll find a download button behind the on the right side from the "RAW" button)
+(Whenever you download this, you'll be directed to the source code format of the file, from there... you'll find a download button behind the on the right side from the "RAW" and Copy/Paste button)
 
 STEP 2 After you downloaded all the files, open the index.html. Enjoy!!!!
